@@ -3,7 +3,6 @@ import { IconButton, Tooltip, Typography } from "@material-tailwind/react";
 import { useState } from "react";
 import { AiOutlineClear, AiFillCaretDown } from "react-icons/ai"
 import { MdClear } from "react-icons/md"
-import GetDeviceProp from "../test/getDeviceHeightWidth";
 
 
 export default function AddProduct() {
